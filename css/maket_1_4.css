@@ -139,7 +139,7 @@ button {
     font-family: "TT Lakes";
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: -0,2px;
+    letter-spacing: -0.2px;
     color: #1B1C21;
     font-weight: 500;
  }
@@ -199,7 +199,7 @@ button {
     font-family: "TT Lakes";
     font-size: 24px;
     line-height: 32px;
-    letter-spacing: -0,6px;
+    letter-spacing: -0.6px;
     color: #1B1C21;
     font-weight: 900;    
 }
